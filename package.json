@@ -1,0 +1,8 @@
+{
+  "name": "serve-is-easy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiaguinhocoding/serve-is-easy.git",
+  "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
+  "license": "MIT"
+}
