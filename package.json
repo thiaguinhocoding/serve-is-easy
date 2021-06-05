@@ -5,7 +5,11 @@
   "repository": "https://github.com/thiaguinhocoding/serve-is-easy.git",
   "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1"
   }
 }
